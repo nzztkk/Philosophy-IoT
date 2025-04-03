@@ -1,0 +1,126 @@
+[
+    {
+        "id": 1,
+        "title": "The Impact of the Internet of Things on Modern People",
+        "content": "How IoT Shapes Our Lives<br>Presented by [Your Name], 03.04.2025",
+        "image": "https://via.placeholder.com/600x300?text=IoT+Network"
+    },
+    {
+        "id": 2,
+        "title": "Introduction",
+        "content": "Today, we’ll explore how the Internet of Things (IoT) changes our lives. IoT is a network of devices that exchange data via the internet. We’ll cover: What is IoT, its pros and cons, the future, and conclusions.",
+        "image": "https://via.placeholder.com/600x300?text=Introduction"
+    },
+    {
+        "id": 3,
+        "title": "What is the Internet of Things?",
+        "content": "IoT is a network of physical objects connected to the internet. Think smart homes, wearables, and city sensors. IoT makes life more convenient and efficient.",
+        "image": "https://via.placeholder.com/600x300?text=Smart+Home"
+    },
+    {
+        "id": 4,
+        "title": "How Does IoT Work?",
+        "content": "Imagine IoT as an invisible web: devices 'talk' to each other. For example, your fridge notices you’re out of milk and notifies your phone to add it to your shopping list.",
+        "image": "https://via.placeholder.com/600x300?text=IoT+Diagram"
+    },
+    {
+        "id": 5,
+        "title": "Positive Impact: Smart Homes",
+        "content": "Smart homes are a key benefit of IoT. Statista (2023) says 50% of households use smart devices. Thermostats save up to 15% on energy, and cameras improve security.",
+        "image": "https://via.placeholder.com/600x300?text=Smart+Thermostat"
+    },
+    {
+        "id": 6,
+        "title": "Positive Impact: Health and Fitness",
+        "content": "IoT helps monitor health. Fitness trackers track steps and sleep, while smart devices remind you to take meds. Gartner (2022) says 30% of users improved their health with IoT.",
+        "image": "https://via.placeholder.com/600x300?text=Fitness+Tracker"
+    },
+    {
+        "id": 7,
+        "title": "Positive Impact: Work and Business",
+        "content": "In business, IoT boosts efficiency. Sensors in manufacturing cut downtime by 20% (McKinsey). Logistics and smart offices also benefit from automation.",
+        "image": "https://via.placeholder.com/600x300?text=Smart+Office"
+    },
+    {
+        "id": 8,
+        "title": "Negative Impact: Privacy Concerns",
+        "content": "IoT collects tons of data, which is risky. In 2021, 60% of devices had vulnerabilities (Cybersecurity Insiders). Data leaks from cameras and assistants are a real threat.",
+        "image": "https://via.placeholder.com/600x300?text=Privacy+Risk"
+    },
+    {
+        "id": 9,
+        "title": "Negative Impact: Dependency and Stress",
+        "content": "Constant connectivity to IoT devices causes stress. People check notifications dozens of times a day, leading to 'digital fatigue' and reduced focus.",
+        "image": "https://via.placeholder.com/600x300?text=Digital+Fatigue"
+    },
+    {
+        "id": 10,
+        "title": "Negative Impact: Environmental Issues",
+        "content": "IoT creates 'digital waste.' Manufacturing and disposing of devices add to e-waste—50M tons annually (UN, 2023). This harms the environment.",
+        "image": "https://via.placeholder.com/600x300?text=E-Waste"
+    },
+    {
+        "id": 11,
+        "title": "The Future of IoT",
+        "content": "By 2030, there’ll be 50 billion IoT devices (Cisco). Expect smart cities managing traffic and energy, and IoT in healthcare, like remote surgeries.",
+        "image": "https://via.placeholder.com/600x300?text=Smart+City"
+    },
+    {
+        "id": 12,
+        "title": "Who Benefits from IoT?",
+        "content": "IoT helps everyone: individuals (convenience, health), businesses (efficiency), and governments (smart cities). For example, IoT can assist the elderly with health monitoring.",
+        "image": "https://via.placeholder.com/600x300?text=IoT+Benefits"
+    },
+    {
+        "id": 13,
+        "title": "My Proposals",
+        "content": "1. Strengthen IoT security standards.<br>2. Educate people on digital hygiene.<br>3. Develop eco-friendly IoT tech.",
+        "image": "https://via.placeholder.com/600x300?text=Proposals"
+    },
+    {
+        "id": 14,
+        "title": "Conclusion",
+        "content": "IoT improves life but brings risks: privacy, environment, stress. The future depends on us. Let’s use IoT wisely so tech serves people, not the other way around.",
+        "image": "https://via.placeholder.com/600x300?text=Conclusion"
+    },
+    {
+        "id": 15,
+        "title": "Sources and Thanks",
+        "content": "Sources: Statista (2023), Gartner (2022), McKinsey (2022), Cybersecurity Insiders (2021), Cisco (2023), UN (2023).<br>Thank you for your attention! I’m ready for your questions.",
+        "image": "https://via.placeholder.com/600x300?text=Thank+You"
+    },
+
+
+
+    {
+        "id": 16,
+        "title": "Welcome to IoT Presentation",
+        "content": "Exploring the future of connected devices<br>and their impact on society",
+        "media": {
+            "type": "image",
+            "src": "https://source.unsplash.com/random/800x450/?iot,technology,dark"
+        },
+        "theme": "purple-gradient"
+    },
+    {
+        "id": 17,
+        "title": "What is IoT?",
+        "content": "Network of physical objects with sensors and connectivity<br>that collect and exchange data",
+        "media": {
+            "type": "image",
+            "src": "./data/img/img2.jpeg"
+        },
+        "theme": "dark-blue"
+    },
+    {
+        "id": 18,
+        "title": "Smart Home Demo",
+        "content": "See how IoT devices work together<br>to automate your living space",
+        "media": {
+            "type": "image",
+            "src": "./data/img/img1.jpg"
+        },
+        "theme": "black-red"
+    }
+]
+    
